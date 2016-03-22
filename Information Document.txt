@@ -1,1 +1,3 @@
 Hello, and welcome to Getting into git!
+
+Isn't this interesting how I can type more.
